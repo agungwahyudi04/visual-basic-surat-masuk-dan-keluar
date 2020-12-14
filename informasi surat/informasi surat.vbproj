@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{45DB2048-FE37-41D8-8A6C-F0FB30911B35}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>informasi_surat.My.MyApplication</StartupObject>
+    <RootNamespace>informasi_surat</RootNamespace>
+    <AssemblyName>informasi surat</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>informasi surat.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>informasi surat.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MySql.Data, Version=8.0.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="accessdata\koneksidata.vb" />
+    <Compile Include="bin\Debug\report.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\reportmasuk.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reportmasuk.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cetak surat keluar.Designer.vb">
+      <DependentUpon>Cetak surat keluar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cetak surat keluar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cetak surat masuk.Designer.vb">
+      <DependentUpon>Cetak surat masuk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cetak surat masuk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daftar surat keluar.Designer.vb">
+      <DependentUpon>daftar surat keluar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="daftar surat keluar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daftar surat keluar2.Designer.vb">
+      <DependentUpon>daftar surat keluar2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="daftar surat keluar2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daftar surat masuk.Designer.vb">
+      <DependentUpon>daftar surat masuk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="daftar surat masuk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daftar surat masuk2.Designer.vb">
+      <DependentUpon>daftar surat masuk2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="daftar surat masuk2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="surat_diterima.Designer.vb">
+      <DependentUpon>surat_diterima.vb</DependentUpon>
+    </Compile>
+    <Compile Include="surat_diterima.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="surat_keluar.Designer.vb">
+      <DependentUpon>surat_keluar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="surat_keluar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="bin\Debug\report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>report.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\reportmasuk.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reportmasuk.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetak surat keluar.resx">
+      <DependentUpon>Cetak surat keluar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetak surat masuk.resx">
+      <DependentUpon>Cetak surat masuk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daftar surat keluar.resx">
+      <DependentUpon>daftar surat keluar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daftar surat keluar2.resx">
+      <DependentUpon>daftar surat keluar2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daftar surat masuk.resx">
+      <DependentUpon>daftar surat masuk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daftar surat masuk2.resx">
+      <DependentUpon>daftar surat masuk2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="surat_diterima.resx">
+      <DependentUpon>surat_diterima.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="surat_keluar.resx">
+      <DependentUpon>surat_keluar.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\digitalart2full.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spiral+banner+green.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\digitalart2full1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spiral+banner+green1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spiral+banner+green2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spiral+banner+green3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spiral+banner+green4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lambang_Kabupaten_Lamongan copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lambang_Kabupaten_Lamongan copy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spiral+banner+green5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lambang_Kabupaten_Lamongan copy2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pppp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

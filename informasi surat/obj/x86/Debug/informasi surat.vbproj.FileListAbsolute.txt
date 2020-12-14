@@ -1,0 +1,111 @@
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\bin\Debug\informasi surat.exe
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\bin\Debug\informasi surat.pdb
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\bin\Debug\informasi surat.xml
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Form1.resources
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Resources.resources
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi surat.vbproj.GenerateResource.Cache
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi surat.exe
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi surat.xml
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi surat.pdb
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.surat_diterima.resources
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.surat_keluar.resources
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_masuk.resources
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_keluar.resources
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.login.resources
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Form2.resources
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\bin\Debug\MySql.Data.DLL
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi surat.vbprojResolveAssemblyReference.cache
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_keluar2.resources
+D:\DOCUMENT\Visual Studio\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_masuk2.resources
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi surat.exe
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi surat.xml
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi surat.pdb
+E:\informasi surat\informasi surat\bin\Debug\informasi surat.exe.config
+E:\informasi surat\informasi surat\bin\Debug\informasi surat.exe
+E:\informasi surat\informasi surat\bin\Debug\informasi surat.pdb
+E:\informasi surat\informasi surat\bin\Debug\informasi surat.xml
+E:\informasi surat\informasi surat\bin\Debug\MySql.Data.DLL
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi surat.vbprojResolveAssemblyReference.cache
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_keluar.resources
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_keluar2.resources
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_masuk.resources
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_masuk2.resources
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Form1.resources
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Form2.resources
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.login.resources
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Resources.resources
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.surat_diterima.resources
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.surat_keluar.resources
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi surat.vbproj.GenerateResource.Cache
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Cetak_surat_masuk.resources
+E:\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Cetak_surat_keluar.resources
+D:\New folder (2)\informasi surat\informasi surat\bin\Debug\informasi surat.exe.config
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi surat.exe
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi surat.xml
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi surat.pdb
+D:\New folder (2)\informasi surat\informasi surat\bin\Debug\informasi surat.exe
+D:\New folder (2)\informasi surat\informasi surat\bin\Debug\informasi surat.pdb
+D:\New folder (2)\informasi surat\informasi surat\bin\Debug\informasi surat.xml
+D:\New folder (2)\informasi surat\informasi surat\bin\Debug\MySql.Data.DLL
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi surat.vbprojResolveAssemblyReference.cache
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Cetak_surat_keluar.resources
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Cetak_surat_masuk.resources
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_keluar.resources
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_keluar2.resources
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_masuk.resources
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_masuk2.resources
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Form1.resources
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Form2.resources
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.login.resources
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Resources.resources
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.surat_diterima.resources
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.surat_keluar.resources
+D:\New folder (2)\informasi surat\informasi surat\obj\x86\Debug\informasi surat.vbproj.GenerateResource.Cache
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\bin\Debug\informasi surat.exe.config
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi surat.exe
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi surat.xml
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi surat.pdb
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\bin\Debug\informasi surat.exe
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\bin\Debug\informasi surat.pdb
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\bin\Debug\informasi surat.xml
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\bin\Debug\MySql.Data.DLL
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi surat.vbprojResolveAssemblyReference.cache
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Cetak_surat_keluar.resources
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Cetak_surat_masuk.resources
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_keluar.resources
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_keluar2.resources
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_masuk.resources
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_masuk2.resources
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Form1.resources
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Form2.resources
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.login.resources
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Resources.resources
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.surat_diterima.resources
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.surat_keluar.resources
+E:\New folder (3)\Ahmad Salaffudin(111510009)\informasi surat\informasi surat\obj\x86\Debug\informasi surat.vbproj.GenerateResource.Cache
+E:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\bin\Debug\informasi surat.exe.config
+E:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi surat.exe
+E:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi surat.xml
+E:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi surat.pdb
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\bin\Debug\informasi surat.exe.config
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi surat.exe
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi surat.xml
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi surat.pdb
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\bin\Debug\informasi surat.exe
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\bin\Debug\informasi surat.pdb
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\bin\Debug\informasi surat.xml
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\bin\Debug\MySql.Data.DLL
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi surat.vbprojResolveAssemblyReference.cache
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Cetak_surat_keluar.resources
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Cetak_surat_masuk.resources
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_keluar.resources
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_keluar2.resources
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_masuk.resources
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.daftar_surat_masuk2.resources
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Form1.resources
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Form2.resources
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.login.resources
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.Resources.resources
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.surat_diterima.resources
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi_surat.surat_keluar.resources
+H:\APP_PKL_Sistem-pengarsipan-surat\informasi surat\informasi surat\obj\x86\Debug\informasi surat.vbproj.GenerateResource.Cache
